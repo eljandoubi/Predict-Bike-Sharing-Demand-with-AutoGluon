@@ -18,7 +18,7 @@ To meet specifications, the project will require at least these files:
 Images or additional files needed to make your notebook or report complete can be also added.
 
 ## Getting Started
-* Clone this template repository `git clone git@github.com:udacity/nd009t-c1-intro-to-ml-project-starter.git` into AWS Sagemaker Studio (or local development).
+* Clone this template repository `https://github.com/eljandoubi/Predict-Bike-Sharing-Demand-with-AutoGluon.git` into AWS Sagemaker Studio (or local development).
 
 * Proceed with the project within the [jupyter notebook](project-template.ipynb).
 * Visit the [Kaggle Bike Sharing Demand Competition](https://www.kaggle.com/c/bike-sharing-demand) page. There you will see the overall details about the competition including overview, data, code, discussion, leaderboard, and rules. You will primarily be focused on the data and ranking sections.
